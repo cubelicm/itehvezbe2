@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <title>FON: Zakazivanje kolokvijuma</title>
+    <title>FON: Zakazivanje ispita</title>
 
 </head>
 <body>
+
     <div class="login-form">
         <div class="main-div">
             <form method="POST" action="#">
